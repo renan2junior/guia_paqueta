@@ -1,0 +1,12 @@
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/bin/Debug/netstandard2.0/guia_paqueta.deps.json
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/bin/Debug/netstandard2.0/guia_paqueta.dll
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/bin/Debug/netstandard2.0/guia_paqueta.pdb
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/guia_paqueta.csprojResolveAssemblyReference.cache
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/guia_paqueta.csproj.CoreCompileInputs.cache
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/guia_paqueta.AssemblyInfoInputs.cache
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/guia_paqueta.AssemblyInfo.cs
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/guia_paqueta.dll
+/Users/renanjunior/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/guia_paqueta/obj/Debug/netstandard2.0/guia_paqueta.pdb

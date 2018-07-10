@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="guia_paqueta.Views.MainPage" Title="{Binding Title}">
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+
+        <Label Text="História" FontSize="36" HorizontalTextAlignment="Center">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" Android="Kavoon-Regular.ttf#Kavoon-Regular" 
+                                                   iOS="Kavoon-Regular"/>
+            </Label.FontFamily>
+        </Label>
+        <Label Text="Como chegar" FontSize="36" HorizontalTextAlignment="Center">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" Android="Kavoon-Regular.ttf#Kavoon-Regular" 
+                                                   iOS="Kavoon-Regular"/>
+            </Label.FontFamily>
+        </Label>
+        <Label Text="Hospedagem" FontSize="36" HorizontalTextAlignment="Center">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" Android="Kavoon-Regular.ttf#Kavoon-Regular" 
+                                                   iOS="Kavoon-Regular"/>
+            </Label.FontFamily>
+        </Label>
+        <Label Text="Culinária" FontSize="36" HorizontalTextAlignment="Center">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" Android="Kavoon-Regular.ttf#Kavoon-Regular" 
+                                                   iOS="Kavoon-Regular"/>
+            </Label.FontFamily>
+        </Label>
+        <Label Text="Passeios" FontSize="36" HorizontalTextAlignment="Center">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" Android="Kavoon-Regular.ttf#Kavoon-Regular" 
+                                                   iOS="Kavoon-Regular"/>
+            </Label.FontFamily>
+        </Label>
+        <Label Text="Projetos" FontSize="36" HorizontalTextAlignment="Center">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" Android="Kavoon-Regular.ttf#Kavoon-Regular" 
+                                                   iOS="Kavoon-Regular"/>
+            </Label.FontFamily>
+        </Label>
+
+        <Label Text="Eventos" FontSize="36" HorizontalTextAlignment="Center">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" Android="Kavoon-Regular.ttf#Kavoon-Regular" 
+                                                   iOS="Kavoon-Regular"/>
+            </Label.FontFamily>
+        </Label>
+    </StackLayout>
+</ContentPage>
